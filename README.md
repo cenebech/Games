@@ -1,2 +1,2 @@
 # Games
-This repo contain basic games created in Python
+This repository has simple games created in Python 
